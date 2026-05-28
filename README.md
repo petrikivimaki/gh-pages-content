@@ -1,3 +1,3 @@
 # README.md
 
-GitHub Pages site isolated content repository
+gitHub pages site isolated content repository
