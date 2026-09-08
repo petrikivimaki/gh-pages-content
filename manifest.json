@@ -1,0 +1,73 @@
+{
+	"schemaVersion": 1,
+	"generatedAt": "2026-09-08T16:05:55.161Z",
+	"revision": "9e63b13d567d91dd9cce7ce84fd287fb0e16e855",
+	"contentRoot": "notes",
+	"files": [
+		{
+			"path": "projects/codex.md",
+			"title": "Project Codex",
+			"metadata": {
+				"title": "Project Codex",
+				"authors": "PMK",
+				"featured": true,
+				"tags": "projects",
+				"published": "2026-09-08",
+				"updated": "2026-09-08"
+			},
+			"outgoingLinks": [],
+			"backlinks": [],
+			"excerpt": "Project Codex Codex is a frontend and open data repository for infrequently updated public domain datasets. Web: Codex Source: Codex Data: Codex",
+			"wordCount": 22,
+			"characterCount": 144,
+			"size": 390,
+			"hash": "56d7c2bbb16c039dc4ec70f488145574b2b076bdcfa408b0ac98c54361ef8d5e"
+		},
+		{
+			"path": "projects/papyrus.md",
+			"title": "Project Papyrus",
+			"metadata": {
+				"title": "Project Papyrus",
+				"authors": "PMK",
+				"featured": true,
+				"tags": "projects",
+				"published": "2026-09-08",
+				"updated": "2026-09-08"
+			},
+			"outgoingLinks": [],
+			"backlinks": [
+				"README.md"
+			],
+			"excerpt": "Project Papyrus Papyrus is a serverless frontend and markdown vault publishing system primarily geared for Obsidian and GitHub Pages. It runs this website. Source: Papyrus License: MIT",
+			"wordCount": 27,
+			"characterCount": 184,
+			"size": 358,
+			"hash": "0eeddb4cd3792468b167790a7f13c6ca3a1a8f91eb44e70f56e4ff1612d40dc3"
+		},
+		{
+			"path": "README.md",
+			"title": "README",
+			"metadata": {
+				"title": "README",
+				"authors": "PMK",
+				"featured": true,
+				"tags": "meta",
+				"published": "2026-09-08",
+				"updated": "2026-09-08"
+			},
+			"outgoingLinks": [
+				{
+					"type": "wiki",
+					"target": "papyrus",
+					"path": "projects/papyrus.md"
+				}
+			],
+			"backlinks": [],
+			"excerpt": "README Clankers and humans, This is my personal website running on papyrus. I build stuff for myself, agents, developers, gamers, consumers, and businesses across web, cli and native platforms.",
+			"wordCount": 29,
+			"characterCount": 193,
+			"size": 306,
+			"hash": "7345757c10c18730b800bfd740185021ccd32544ea51915f2349f7f4fee1a9f9"
+		}
+	]
+}
